@@ -1,6 +1,6 @@
 # Vehicle Rental Management System SRS Document
 
-# Problem Statement
+## Problem Statement
 The purpose of the assignment is to develop a requirements analysis document for a car rental management system. The manual car rental system was fraught with difficulties, including database management, which was a manual process. The goal is to develop a system that keeps detailed records of both the cars and the customers, the duration they rent the car, as well as the type of car they rent. The system will be mainly designed for a small company that renders car rental services to customers. The system will have the ability to generate and print invoices for each successful transaction.
 The Vehicle Rental Management System aims to streamline and modernize the entire rental process, from vehicle availability and booking to vehicle return and billing. This system will not only improve the agency's operational efficiency but also enhance the customer experience by providing a user-friendly online platform. Key issues that the VRMS seeks to address include:
 1.	Inefficient Reservation Process:
@@ -14,7 +14,7 @@ Managing a large fleet of vehicles manually is prone to errors, making it diffic
 10.	Customer Engagement:
 Customer interactions and feedback collection are inefficient, making it challenging to address customer concerns and improve services.
 
-# Proper Template Usage
+## Proper Template Usage
 To use the waterfall model in a vehicle rental management system, the following steps can be taken:
 1. Requirements gathering: Gather all the requirements for the system from stakeholders, including the features and functionalities that the system should have.
 2. System design: Design the system architecture, including the database schema, user interface, and system modules.
@@ -26,7 +26,7 @@ To use the waterfall model in a vehicle rental management system, the following 
 The waterfall model is a linear and strict set of stages during the development process. It follows a particular process model and can be used in the development of a car rental system. The iterative waterfall model is another development methodology that can be used in the development of a car rental management system. The system architecture can be designed using the SDLC framework, which describes all activities and processes in a software development project. The proposed system can be an online system that is fully integrated and automates manual procedures
 
 
-# Functional Requirements
+## Functional Requirements
 1.	User Registration and Authentication:
 	Customers and administrators should be able to register with valid information.
 	Users must authenticate their identities through secure login mechanisms.
@@ -51,7 +51,7 @@ The waterfall model is a linear and strict set of stages during the development 
 	The system should generate reports on revenue, vehicle utilization, customer activity, and other relevant metrics.
 	Analytics features should allow administrators to make data-driven decisions regarding fleet management and pricing strategies.
 
-# Non-Functional Requirements
+## Non-Functional Requirements
 1.	Performance:
 	The system should be capable of handling a minimum of 500 concurrent users without significant performance degradation.
 	Response times for common tasks (e.g., searching for vehicles, making reservations) should be under 2 seconds.
@@ -68,19 +68,19 @@ The waterfall model is a linear and strict set of stages during the development 
 	The user interface should be intuitive, responsive, and accessible on various devices (desktop and mobile).
 	Error messages should be clear and user-friendly to assist users in resolving issues.
 
-# Use Case Diagram
+## Use Case Diagram
 ![image](https://github.com/aayushabhatia/Vehicle-Rental-Management-System-SRS-Document/assets/112889465/0b37b94f-2c7d-445a-858e-6e10f65a1255)
 
-# Class Diagram
+## Class Diagram
 ![image](https://github.com/aayushabhatia/Vehicle-Rental-Management-System-SRS-Document/assets/112889465/544733b2-dfcd-42e2-a143-c1a032fc6f7c)
 
 # ER Diagram
 ![image](https://github.com/aayushabhatia/Vehicle-Rental-Management-System-SRS-Document/assets/112889465/33146a16-596b-48e5-ba8a-a7905b1fb937)
 
-# Deployment Diagram
+## Deployment Diagram
 ![image](https://github.com/aayushabhatia/Vehicle-Rental-Management-System-SRS-Document/assets/112889465/805f950f-d601-436c-bb63-10661cd65841)
 
-# Team
+## Team
 1. AASTHA ARORA
 2. AAYUSHA BHATIA
 3. ABHISHEK RAJPUT
