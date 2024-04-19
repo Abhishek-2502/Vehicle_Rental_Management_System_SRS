@@ -25,12 +25,6 @@ To use the waterfall model in a vehicle rental management system, the following 
 
 The waterfall model is a linear and strict set of stages during the development process. It follows a particular process model and can be used in the development of a car rental system. The iterative waterfall model is another development methodology that can be used in the development of a car rental management system. The system architecture can be designed using the SDLC framework, which describes all activities and processes in a software development project. The proposed system can be an online system that is fully integrated and automates manual procedures
 
-# Team
-1. AASTHA ARORA
-2. AAYUSHA BHATIA
-3. ABHISHEK RAJPUT
-4. AYUSHI MAHAJAN
-5. RAVINDRANATH TAMBADE
 
 # Functional Requirements
 1.	User Registration and Authentication:
@@ -86,5 +80,10 @@ The waterfall model is a linear and strict set of stages during the development 
 # Deployment Diagram
 ![image](https://github.com/aayushabhatia/Vehicle-Rental-Management-System-SRS-Document/assets/112889465/805f950f-d601-436c-bb63-10661cd65841)
 
-
+# Team
+1. AASTHA ARORA
+2. AAYUSHA BHATIA
+3. ABHISHEK RAJPUT
+4. AYUSHI MAHAJAN
+5. RAVINDRANATH TAMBADE
 
